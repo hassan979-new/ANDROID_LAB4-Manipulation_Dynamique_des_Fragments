@@ -49,8 +49,6 @@ Pour installer l’APK de ce projet Android :
 
 5. **Lancer l’application**  
    - Une fois installée, l’application sera disponible dans le menu des applications sous le nom **PizzaRecipes**.
-  
-  
 ---
 
 ## ⚙️ Fonctionnalités
@@ -72,8 +70,10 @@ Pour installer l’APK de ce projet Android :
 ---
 
 ## 🖥️ Exemple d’exécution
-
-
+- ![System Diagram](https://github.com/hassan979-new/ANDROID_LAB4-Manipulation_Dynamique_des_Fragments/blob/main/img/Capture%20d%E2%80%99%C3%A9cran%202026-03-15%20142654.png)
+- ![System Diagram](https://github.com/hassan979-new/ANDROID_LAB4-Manipulation_Dynamique_des_Fragments/blob/main/img/Capture%20d%E2%80%99%C3%A9cran%202026-03-15%20142738.png)
+- ![System Diagram](https://github.com/hassan979-new/ANDROID_LAB4-Manipulation_Dynamique_des_Fragments/blob/main/img/Capture%20d%E2%80%99%C3%A9cran%202026-03-15%20142756.png)
+- ![System Diagram](https://github.com/hassan979-new/ANDROID_LAB4-Manipulation_Dynamique_des_Fragments/blob/main/img/Capture%20d%E2%80%99%C3%A9cran%202026-03-15%20142835.png)
 ---
 
 ## 💡 Concepts pratiqués
